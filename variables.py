@@ -14,3 +14,14 @@ print(car * car)
 
 # variables cannot start with symbols
 # !@hello is invalid
+
+
+
+# what happens when int is multiplied by double?
+
+my_int = 50
+my_double = 0.5
+my_calculation = my_int * my_double
+
+# the end product results in a floating point number
+print(my_calculation)
